@@ -15,7 +15,7 @@ The date column
 
 ![image](https://user-images.githubusercontent.com/112581327/188505819-7ce536f2-02b1-40ad-a833-88a6b362690b.png)
 
-Within the visualization, 6 graphs were generated:
+Within the visualization, six graphs were generated:
 A Card with the total copies sold
 A bar graph with the percentage sold by region
 A column chart with cumulative sales by year and region
